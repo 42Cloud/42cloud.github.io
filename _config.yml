@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : 山月白
 description: > # this means to ignore newlines until "Language & timezone"
-
+  其生也有涯，其知也无涯
 
 ## => Language and Timezone
 ##############################
@@ -34,7 +34,7 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 42cloud
+  name      : 月白
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
