@@ -18,3 +18,6 @@ titles:
 key: page-about
 ---
 
+### <center/>自信 开放 冒险 <center/>
+
+### <center/> 认真做事 <center/>
