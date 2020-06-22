@@ -32,3 +32,5 @@ header:
       ko      : &KO       소개
       ko-KR   : *KO
     url: /about.html
+  - title: Github
+    url: https://github.com/42Cloud

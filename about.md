@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: 月有阴晴月缺，人有旦夕祸福
+titles: 
   en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
@@ -18,6 +18,6 @@ titles: 月有阴晴月缺，人有旦夕祸福
 key: page-about
 ---
 
-### <center/>自信 开放 冒险 <center/>
+## 待完善
 
-### <center/> 认真做事 <center/>
+自信 开放 冒险 认真做事
