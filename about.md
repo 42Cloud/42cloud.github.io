@@ -1,6 +1,6 @@
 ---
 layout: article
-titles:
+titles: 月有阴晴月缺，人有旦夕祸福
   en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
