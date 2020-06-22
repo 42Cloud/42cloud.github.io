@@ -26,6 +26,4 @@ titles:
 key: page-about
 ---
 
-## 待完善
-
 自信 开放 冒险 认真做事
