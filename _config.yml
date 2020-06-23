@@ -209,6 +209,7 @@ collections:
   
 
 defaults:
+  # posts
   - scope:
       path: ""
       type: posts
@@ -221,8 +222,31 @@ defaults:
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
-
-
+  # books
+  - scope:
+      path: ""
+      type: books
+    values:
+      layout: article
+      sharing: true
+      license: false
+      aside:
+        toc: false
+      show_edit_on_github: false
+      show_subscribe: true
+      pageview: true
+      tags: 读书笔记
+      mode: immersive
+      header:
+        theme: dark
+      article_header:
+        type: overlay
+        theme: dark
+        background_color: '#203028'
+        background_image:
+          gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+          src: /assets/images/cover/cover3.jpg
+          
 ## => Plugins
 ##############################
 plugins:
