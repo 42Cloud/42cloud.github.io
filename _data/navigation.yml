@@ -1,4 +1,6 @@
 header:
+  - title: 首页
+    url: /
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -24,6 +26,8 @@ header:
       # @end locale config
     url: /archive.html
 
+  - title: 读书笔记
+    url: /books.html
   - titles:
       # @start locale config
       en      : &EN       About
