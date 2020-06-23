@@ -236,6 +236,7 @@ defaults:
       show_subscribe: true
       pageview: true
       tags: 读书笔记
+      cover: /assets/images/cover/cover3.jpg
       mode: immersive
       header:
         theme: dark
@@ -246,7 +247,7 @@ defaults:
         background_image:
           gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
           src: /assets/images/cover/cover3.jpg
-          
+
 ## => Plugins
 ##############################
 plugins:
