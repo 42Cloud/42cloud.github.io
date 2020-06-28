@@ -54,3 +54,5 @@ header:
     url: /about.html
   - title: Github
     url: https://github.com/42Cloud
+  - title: 分类
+    url: /category.html
