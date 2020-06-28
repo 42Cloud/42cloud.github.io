@@ -87,7 +87,6 @@
               result[i][j] = true;
             } else {
               var tags = $articles.eq(j).data('tags').split(',');
-              console.log($articles.eq(j).data('tags'))
               for (k = 0; k < tags.length; k++) {
                 if (tags[k] === tag) {
                   result[i] || (result[i] = {});
