@@ -1,6 +1,7 @@
 ---
 title: flow entry and statistics
 date: 2019-11-11 14:00:43
+categories: SDN
 tags:
 ---
 
@@ -123,7 +124,6 @@ attack pattern
 根据已经分配好的角色进行发包，每个角色的发包类型都一样，只是发包的速率不同
 
 Attackers send packets at a rate which is uniformly sampled from range [2.5, 6] while the rate of a benign user is sampled from the range[0, 2].
-
 
 
 

@@ -1,6 +1,7 @@
 ---
 title: 构建 ODL Docker 镜像
 date: 2019-11-15 22:01:06
+categories: [SDN, 虚拟化]
 tags:
 ---
 

@@ -10,7 +10,6 @@ tags:
     - Wireless Sensor Networks
 categories:
     - Security
-    - Wireless Network
 ---
 
 《无线网络与物联网安全》后半部分大纲，主要介绍了GSM，3G，WLAN，RFID，Mobile IP和Wireless Sensor Networks等方面的安全机制。这也只能作为一个临时大纲，后面回过头来看，大概自己也看不懂了⊙﹏⊙b汗，毕竟有太多的内容需要补充。
